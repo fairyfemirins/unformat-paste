@@ -37,5 +37,12 @@ python3 unformat_paste.py  # Runs in background. Press Ctrl+C to exit.
 - **Wayland**: Not compatible (use X11).
 - **macOS/Windows**: No restrictions.
 
+## Note
+This repository was published under `fairyfemirins` due to GitHub namespace restrictions. A transfer to `femirins` is pending.
+
+To request a transfer, open an issue in this repository or contact `@femirins` on GitHub.
+
+---
+
 ## License
 MIT
