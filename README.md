@@ -11,9 +11,13 @@ When copying text from Office apps (LibreOffice, MS Word) into email clients (Ou
 
 ## Installation
 ```bash
-git clone https://github.com/Femirins/unformat-paste.git
+# Clone the repository (published under fairyfemirins due to namespace mismatch)
+git clone https://github.com/fairyfemirins/unformat-paste.git
 cd unformat-paste
-pip install -r requirements.txt
+```
+
+## Note
+This repository was published under `fairyfemirins` due to GitHub namespace restrictions. A transfer to `femirins` is pending. See [TRANSFER_NOTE.md](TRANSFER_NOTE.md) for details.
 ```
 
 ## Usage
